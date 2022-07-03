@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+    <img alt="the@way(of)dev-el" src="https://raw.githubusercontent.com/wayofdev/.github/master/assets/wod_github.gif" width="629">
+</p>
 
 <!--
 
