@@ -4,11 +4,13 @@
 ## 🔍 Changes Made
 
 <!-- What have you changed? Summarize the main points here. Be clear and concise—this helps reviewers understand your changes quickly. -->
+
 Please provide a description of the changes made in this pull request.
 
 ## 🤔 Rationale
 
 <!-- Why are these changes necessary? Link to any related discussions in GitHub issues or explain your reasoning here. This context is crucial for reviewers to assess the relevance and impact of your changes. -->
+
 Please provide a brief description of the motivation behind the changes in this pull request.
 
 ## 🎟️ Related Tickets & Documents
@@ -28,7 +30,8 @@ Please provide a brief description of the motivation behind the changes in this 
 
 ## 🧪 Added or updated tests?
 
-<!-- How should reviewers verify your changes? This can be as simple as "Ran unit tests" or more detailed like "Tested on staging with multiple environments."
+<!-- How should reviewers verify your changes? This can be as simple as "Ran unit tests"
+or more detailed like "Tested on staging with multiple environments."
 More details help ensure reliability. -->
 
 - [ ] Yes
@@ -37,9 +40,13 @@ More details help ensure reliability. -->
 
 ## 💻 Screenshots (if appropriate)
 
-Include screenshots of the feature or bug fix if the change is visual.
 <!-- Please do not use any external image service. Instead, just paste in or drag and drop the image here, and it will be uploaded automatically. -->
 
-## 📝 Additional Context
+Include screenshots of the feature or bug fix if the change is visual.
+
+## 📝 Additional Context (optional)
+
+<!-- Provide any additional context or information that may be helpful for the reviewers.
+Links to documentation, references, or any other supplementary information that will help reviewers understand your changes better. Include any design decisions, alternative solutions considered, and other relevant details here. -->
 
 Please provide any additional context or information that may be helpful for the reviewers.
