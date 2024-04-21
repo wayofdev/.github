@@ -1,24 +1,35 @@
+<!-- Welcome to Contributors! 🌟 -->
+<!-- If you're making a significant change, please open an issue first to discuss. This ensures we all agree on the solution before you invest time in coding. -->
+
 ## 🔍 Changes Made
 
-Please provide a brief description of the changes made in this pull request.
+<!-- What have you changed? Summarize the main points here. Be clear and concise—this helps reviewers understand your changes quickly. -->
+Please provide a description of the changes made in this pull request.
 
-## 🤔 Why?
+## 🤔 Rationale
 
+<!-- Why are these changes necessary? Link to any related discussions in GitHub issues or explain your reasoning here. This context is crucial for reviewers to assess the relevance and impact of your changes. -->
 Please provide a brief description of the motivation behind the changes in this pull request.
 
 ## 🎟️ Related Tickets & Documents
 
-- Fixes/Closes: #xxx
+- Fixes/Closes: #<!-- Insert GitHub issue number here -->
 
 ## 📋 Checklist
 
+<!-- Review this checklist and confirm you’ve addressed these items before submitting your PR -->
+<!-- Use UI to check the items that apply, or use [x] to mark it. -->
+
 - [ ] My code follows the contributing guidelines of this project
 - [ ] I have performed a self-review of my own code
-- [ ] I have made corresponding changes to the documentation
-- [ ] New and existing tests via `make test` passes locally with my changes
+- [ ] I have made corresponding changes to the documentation (if necessary)
+- [ ] Tests via `make test` passes locally with my changes
 - [ ] Linting via `make lint` passes locally with my changes
 
-## 🧪 Added/updated tests?
+## 🧪 Added or updated tests?
+
+<!-- How should reviewers verify your changes? This can be as simple as "Ran unit tests" or more detailed like "Tested on staging with multiple environments."
+More details help ensure reliability. -->
 
 - [ ] Yes
 - [ ] No, and this is why: _please replace this line with details on why tests have not been included_
@@ -27,6 +38,7 @@ Please provide a brief description of the motivation behind the changes in this 
 ## 💻 Screenshots (if appropriate)
 
 Include screenshots of the feature or bug fix if the change is visual.
+<!-- Please do not use any external image service. Instead, just paste in or drag and drop the image here, and it will be uploaded automatically. -->
 
 ## 📝 Additional Context
 
