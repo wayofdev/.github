@@ -12,6 +12,11 @@ ACTION_LINT_RUNNER ?= $(DOCKER) run --rm $$(tty -s && echo "-it" || echo) \
 	 rhysd/actionlint:latest \
 	 -color -verbose
 
+MARKDOWN_LINT_RUNNER ?= $(DOCKER) run --rm $$(tty -s && echo "-it" || echo) \
+	-v $(shell pwd):/app \
+	--workdir /app \
+	davidanson/markdownlint-cli2-rules:latest
+
 #
 # Self documenting Makefile code
 # ------------------------------------------------------------------------------------
@@ -83,6 +88,14 @@ lint-yaml: ## Lint all yaml files
 lint-actions: ## Lint all github actions
 	@$(ACTION_LINT_RUNNER) | tee -a $(MAKE_LOGFILE)
 .PHONY: lint-actions
+
+lint-md: ## Lint all markdown files using markdownlint-cli2
+	@$(MARKDOWN_LINT_RUNNER) --fix "**/*.md" "!CHANGELOG.md" | tee -a $(MAKE_LOGFILE)
+.PHONY: lint-md
+
+lint-md-dry: ## Lint all markdown files using markdownlint-cli2 in dry-run mode
+	@$(MARKDOWN_LINT_RUNNER) "**/*.md" "!CHANGELOG.md" | tee -a $(MAKE_LOGFILE)
+.PHONY: lint-md-dry
 
 #
 # Release
