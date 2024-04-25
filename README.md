@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/wayofdev/.github/actions" target="_blank"><img alt="Build Status" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fwayofdev%2Fgh-actions%2Fbadge&style=flat-square"/></a>
+<a href="https://github.com/wayofdev/.github/actions" target="_blank"><img alt="Build Status" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fwayofdev%2F.github%2Fbadge&style=flat-square"/></a>
 <a href="https://github.com/wayofdev/.github" target="_blank"><img alt="Commits since latest release" src="https://img.shields.io/github/commits-since/wayofdev/.github/latest?style=flat-square"></a>
 <a href="https://discord.gg/CE3TcCC5vr" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/1228506758562058391?style=flat-square&logo=discord&labelColor=7289d9&logoColor=white&color=39456d"></a>
 <a href="https://x.com/intent/follow?screen_name=wayofdev" target="_blank"><img alt="Follow on Twitter (X)" src="https://img.shields.io/badge/-Follow-black?style=flat-square&logo=X"></a>
