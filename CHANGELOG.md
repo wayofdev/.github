@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.0](https://github.com/wayofdev/.github/compare/v1.1.0...v1.2.0) (2024-04-25)
+
+
+### Features
+
+* markdown linter ci action and Makefile command ([43cfebe](https://github.com/wayofdev/.github/commit/43cfebeaf336b47cd282c202eb4321077b657af2))
+
+
+### Documentation
+
+* fix build badge ([5ca2cb0](https://github.com/wayofdev/.github/commit/5ca2cb0da97684caabb27a1e7299d63d1f18ff1d))
+* initial readme ([29a96b5](https://github.com/wayofdev/.github/commit/29a96b55b1fa232da95e7ee24c15e4c4ebf0b659))
+* readme updates ([953b419](https://github.com/wayofdev/.github/commit/953b419bbc0a0d61ffe36f965e347e4b8c712f04))
+
 ## [1.1.0](https://github.com/wayofdev/.github/compare/v1.0.0...v1.1.0) (2024-04-21)
 
 
